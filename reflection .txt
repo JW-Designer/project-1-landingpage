@@ -1,0 +1,12 @@
+The URL of my landing page: jytwang.com
+The URL of your GitHub repository: https://github.com/JW-Designer/project-1-landingpage.git
+Q: What is something you've learned while working on the landing page: 
+I've gained more practice on flexbox. I've considered using grid for the 
+project gallery, but in this case flexbox is more simple and responsive.
+I've also tested out various gif sizes and how those can affect the loading 
+speed of webpage. Gifs are compatible across (almosy) all browsers and
+though smaller gifs is too pixelated when streched to the full width
+of desktop, larger gif seem to be loading fine across devices.
+Q: Was there anything you were unable to do on your landing page that you would have liked to do? 
+I would like to add some simple javascript to my website, and some css 
+transition effects. 
